@@ -1,6 +1,8 @@
 # homelab-duo-proxy
 i use freeipa to provide identity services in my homelab.   I am hoping to use duo for mfa/2fa in the homelab, this will be a containerized build of the duo auth proxy
 
+# this is a work in progress - i haven't gotten the RADIUS stuff set up yet.
+
 # installation
 
 summarized from [the duo docs](https://duo.com/docs/authproxy-reference#installation)
